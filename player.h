@@ -621,8 +621,6 @@ uint8_t pauseMenu(){
 			if(changed){
 				if(trackNo == 1)
 					StartSong(song1);
-				else if(trackNo == 2)
-					StartSong(song2);
 				else
 					StopSong();
 			}
