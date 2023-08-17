@@ -248,7 +248,7 @@ void UzeboxIntro(){
 	ClearVram();
 	FadeIn(6,false);
 	drawText(2,3,PSTR("ORIGINAL CODE"));
-	drawText(5,5,PSTR("PETRI HÄKKINEN"));
+	drawText(5,5,PSTR("PETRI HAKKINEN"));
 	drawText(2,9,PSTR("TILE GRAPHICS"));
 	drawText(5,11,PSTR("ANTTI TIIHONEN"));
 	drawText(2,15,PSTR("TITLE GRAPHICS"));
